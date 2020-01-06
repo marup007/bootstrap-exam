@@ -1,0 +1,146 @@
+
+
+
+body{
+
+font-family: 'Roboto Slab', serif;
+
+}
+header {}
+.nav-head {background-color: #fff!important;padding: 24px 0px;
+    color: #a2a2a2;}
+.nav-link.js-scroll-trigger.active {background-color: #F83D2F!important;
+    padding : 6px 12px;border-radius: 35px;color: #ffff!important;
+}
+.nav-link{
+    color: #2BC16A!important;
+}
+.navbar-toggler-icon {
+    background-color: #99C50A;
+}
+.hero-section{
+    background: url(../img/hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 600px;
+    padding: 70px 0;
+    text-align: center;
+}
+.hero-section h1{
+    margin-top: 150px;
+}
+.hero-section p{
+    font-size: 30px;
+}
+.btn-custom{
+    background: #99c50a;
+    padding: 15px 50px;
+    text-align: center;
+    border:0;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+.work-section{
+    padding: 70px 0;
+}
+.work-section img{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.work-section h2{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.work-section p{
+    line-height: 30px;
+    margin-top: 30px;
+}
+.product-section{
+    padding: 50px 0;
+    background: linear-gradient(to right, #e2f8ff 50%, #f5f9eb 50%)
+    
+}
+.product-section .one{
+    background:;
+    padding: 20px; 
+}
+.one img,.two img{
+    margin-left: 80px;
+    margin-top: 40px;
+
+}
+.product-section .two{
+    background: ;
+    padding: 20px;
+}
+.product-section .btn-cstm1{
+    background: #26a6d1;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    border:none;
+    border-radius: 6px;
+}
+.product-section .btn-cstm2{
+    background: #add136;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    border:none;
+    border-radius: 6px;
+}
+
+.blog-section{
+    padding: 70px 0;
+}
+.blog-section .project{
+    position: relative;
+}
+
+.blog-section .one {
+    position: absolute;
+    top: 230px;
+    right: 14px;
+    border-radius: 25px;
+}
+.blog-section p {
+    font-size: 15px;
+}
+.blog-section .{
+    margin-top: 50px;
+    
+}
+
+.fa.fa-caret-right{
+    color:#dd4b2b;
+
+}
+.footer-section{
+    padding: 40px 0;
+}
+
+
+
+@media (min-width: 0px) and (max-width:500px ) {
+    body{text-align: center;}
+   h1{font-size: 25px;color :#161616;}
+   h2{font-size: 30px;color :#161616;}
+   h3{font-size: 25px;color :#161616;}
+   h4{font-size: 30px;color :#161616;} 
+}
+@media (min-width: 500.01px) and (max-width:768px ) {
+
+}
+
+@media (min-width: 768.01px) and (max-width:1200px ) {
+
+}
+
+@media (min-width: 1200.01px) {
+
+}
